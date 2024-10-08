@@ -8,6 +8,6 @@ to the issue of feature loss due to downsampling in small object detection, offe
 ![DDCNet](https://github.com/user-attachments/assets/c375dd24-f236-44ec-bc10-9f686e8ddcee)
 
 
-If you want to train DDCNet, just install the required environment for YOLOv8 and click on the main file in your home directory.
+If you want to train DDCNet, just install the required environment for YOLOv8 and click on the main.py in your home directory.
 
 
