@@ -10,7 +10,7 @@ def main():
 
 # Train the model
 
-    model.train(data=r'D:\MBJC\yolov8.2\ultralytics-main\ultralytics-main\datasets\visdata.yaml', batch=1, epochs=1, imgsz=640, workers=0, seed=0, device=0,
+    model.train(data=r'ultralytics\cfg\datasets\VisDrone.yaml', batch=1, epochs=1, imgsz=640, workers=0, seed=0, device=0,
             pretrained=False, lr0=0.01,
             resume=True)
 
